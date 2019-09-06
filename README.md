@@ -3,6 +3,9 @@ Two MNIST classification python notebooks, one using classical ML techniques and
 
 ![Alt text](https://github.com/MattH96/MNIST-Classification-NN/blob/master/Images/MNISTData.png?raw=true "MNIST Images")
 
+IMPORTANT NOTE: The MNIST dataset is large and so cannot be uploaded to this repo. you can download it here http://yann.lecun.com/exdb/mnist/  
+Then simply change the #import file destination to make use of these note books.
+
 MNIST Classification Notebook:
 Goes through some classical techniques for classification, K-nearest-neighbours and random forest. Tests are run on the applicability of different values for K number of neighbours leading to the following accuracy results:
 
